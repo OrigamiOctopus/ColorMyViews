@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Color My Views animated demo' alt='Color My Views demo' />
+<img src='color_my_views_demo.gif' title='Color My Views animated demo' alt='Color My Views demo' />
 
 ## Notes
 
